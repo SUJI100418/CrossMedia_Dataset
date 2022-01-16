@@ -11,7 +11,7 @@ CrossMedia_Dataset : 경의로운 소문(Naver Talk 채팅, 다음 웹툰 댓글
 
 
 #### 에피소드 별 경이로운 소문(드라마) 실시간 Talk 데이터 개수
-<img src="https://user-images.githubusercontent.com/46912893/149653336-9ea95d93-f327-48f9-8f1a-cf7fd8c65d18.JPG" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/46912893/149653585-84a22430-5091-4c8e-b5f1-0695afc964d5.JPG" width="60%" height="60%">
 
 
 #### 네이버 실시간 Talk(1~10 회) 감정분석 결과
