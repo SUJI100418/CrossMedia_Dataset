@@ -15,4 +15,4 @@ CrossMedia_Dataset : 경의로운 소문(Naver Talk 채팅, 다음 웹툰 댓글
 
 
 #### 네이버 실시간 Talk(1~10 회) 감정분석 결과
-<img src="https://user-images.githubusercontent.com/46912893/149653336-9ea95d93-f327-48f9-8f1a-cf7fd8c65d18.JPG" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/46912893/149653573-b25004bf-4254-403e-aef8-983f3f19636c.JPG" width="60%" height="60%">
